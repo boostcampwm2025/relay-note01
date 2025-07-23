@@ -34,9 +34,15 @@
 
 #### 07-22 오전 7시 15분
 > 질문
-<img width="645" height="175" alt="스크린샷 2025-07-22 오전 7 14 47" src="https://github.com/user-attachments/assets/010d2dca-d75b-4099-9e73-3327dc5e562f" />
+<img width="60%" height="175" alt="스크린샷 2025-07-22 오전 7 14 47" src="https://github.com/user-attachments/assets/010d2dca-d75b-4099-9e73-3327dc5e562f" />
 
 > 답변
-<img width="875" height="667" alt="스크린샷 2025-07-22 오전 7 15 51" src="https://github.com/user-attachments/assets/cf2b7ad6-c7a8-46ab-bb0b-51949b168816" />
+<img width="60%" height="667" alt="스크린샷 2025-07-22 오전 7 15 51" src="https://github.com/user-attachments/assets/cf2b7ad6-c7a8-46ab-bb0b-51949b168816" />
 
 > 한줄평 : "오늘은 버그같은 날이었다.라고 로그 찍고, 내일 리팩토링하자".... 내가 AI한테 이런 말을 들으며 위로를 받다니... 많이 약해진건지 모르겠지만 감동이었다.
+
+#### 07-23 오전 10시 46분
+
+<img width="948" height="415" alt="스크린샷 2025-07-23 오전 10 45 58" src="https://github.com/user-attachments/assets/0880eec6-2bcf-418b-b5dd-39090647ef2d" />
+
+> 한줄평 : 이만하면 잘 했다... 원래 싫어하는 말인데 챌린지에서는 위로가 된다.
