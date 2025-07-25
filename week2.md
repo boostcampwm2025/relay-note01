@@ -57,10 +57,12 @@
 ### J020 권민서
 > 질문
 <img width="684" height="160" alt="Image" src="https://github.com/user-attachments/assets/8c474737-a3dc-4043-a272-1daeea911852" />
+
 > 답변
 <img width="812" height="323" alt="Image" src="https://github.com/user-attachments/assets/2b7667eb-f1cd-44cc-af96-cd027ded96ab" />
 
 > 질문
 <img width="680" height="124" alt="Image" src="https://github.com/user-attachments/assets/420cb98a-d779-4583-b6c7-c25c9f8e4b70" />
+
 > 답변
 <img width="709" height="351" alt="Image" src="https://github.com/user-attachments/assets/abd5506f-e2f8-40f7-93dc-d5d42b0e8835" />
