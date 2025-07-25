@@ -26,11 +26,6 @@
 
 # 조사하기
 
-<<<<<<< HEAD
-퀘스트 1 생각: 그날 사용했던 ai 채팅 메시지에서 내 질문 모아달라고 요청. 질문들의 공통점이나 특징, 더 잘 질문할 수 있는 방식 등을 ai에게 알려달라고 하여 매일 질문 방식 강화.
-배경: 요즘 ai로 질문은 많이 하는데, 질문의 질이나 내가 질문할 때의 습관들을 잘 모르는 경우가 태반이다. 이 부분을 더욱 강화하여 ai 사용을 더 효율적으로 할 수 있도록 한다.
-https://www.aitimes.com/news/articleView.html?idxno=164271
-=======
 ## 퀘스트 1
 
 - AI를 활용한 학습에서 ‘질문의 질’이 학습 효과를 결정짓는 중요한 요소임
@@ -66,13 +61,12 @@ https://www.aitimes.com/news/articleView.html?idxno=164271
 - 개발자처럼 장시간 앉아 있는 직군에 특히 **AI 기반 건강 루틴 자동화**는 높은 실효성이 있지 않을까?
 
 > [_웰니스 라이프 - AI 기반 건강 코칭_](https://www.iinfolink.com/2025/03/ai.html?utm_source=chatgpt.com)
->>>>>>> 9793ec3 (docs: week2 조사하기 업데이트)
 
 퀘스트 3 조사: 사용자의 감정을 분석하는 방법을 통해 자기 인식 및 자아 개발에 도움을 받을 수 있음.
-https://kidd.co.kr/news/238386?utm_source=chatgpt.com 
+https://kidd.co.kr/news/238386?utm_source=chatgpt.com
 
 퀘스트 4 조사: AI 건강 코칭의 여러 장점 및 활용 사례
-https://www.iinfolink.com/2025/03/ai.html?utm_source=chatgpt.com 
+https://www.iinfolink.com/2025/03/ai.html?utm_source=chatgpt.com
 
 ---
 
