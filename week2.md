@@ -262,3 +262,52 @@
 - **아쉬웠던 점**
     - **지나치게 관대한 평가 기준**<br/>
     각 질문마다 강점과 개선점에 대한 피드백과 함께 점수를 매겨달라고 요청했습니다. 강점과 개선점 내용만 보았을 때는 부족한 부분이 보여 점수가 처절할 것으로 예상했으나, 실제로는 생각보다 높은 점수를 받았습니다. 이를 통해 AI가 인간 친화적으로 설계되어 있어 냉혹하고 객관적인 평가보다는 격려적인 성향을 보인다는 것을 알 수 있었습니다. 보다 명확하고 엄격한 피드백을 받고 싶다면 프롬프트를 더욱 구체적으로 수정할 필요가 있겠다고 느꼈습니다.
+
+# deep research로 검증된 근거에서 건강리포트 받기 - 조천산
+
+### 사용 AI
+
+chatgpt의 research기능
+
+## Chatgpt의 research 기능을 사용한이유
+
+https://yozm.wishket.com/magazine/detail/3261/?data=hqRfFFVauwW9lXBnml55xuJHBLBWKG%2FvJ3AEPSvAIZ8%3D&source=daily_latest_news
+
+![alt text](https://private-user-images.githubusercontent.com/58281476/473292980-047a010a-1851-427a-bcc1-5eda6a569e5d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMjQ1NTAsIm5iZiI6MTc1NDAyNDI1MCwicGF0aCI6Ii81ODI4MTQ3Ni80NzMyOTI5ODAtMDQ3YTAxMGEtMTg1MS00MjdhLWJjYzEtNWVkYTZhNTY5ZTVkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAxVDA0NTczMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwOGUwYTlmNTIxNDY0NTMzMTYyZTFmYTg2NTIwNjViYzdkNzVmNjFmYzBlZmEzMTBiMTJmYzA5NDQ2YzVmMDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dKQJCi0GqGmS3qRITGY3-XkCgJsNtoIr9zdzjtd_pUk)
+![alt text](https://private-user-images.githubusercontent.com/58281476/473292970-2bdece63-163b-4bcb-9b52-c0873e005822.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMjQ1NTAsIm5iZiI6MTc1NDAyNDI1MCwicGF0aCI6Ii81ODI4MTQ3Ni80NzMyOTI5NzAtMmJkZWNlNjMtMTYzYi00YmNiLTliNTItYzA4NzNlMDA1ODIyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAxVDA0NTczMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2NWI5OGE4NTUwNWYyMTljYTIxNmY1ODkxMzc2MzgyMTdhMTJhODgxZGY3ZDJmZjVkZGM5MzM0NDY2NGNjNzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Xn299d50vuPsoUZ9LiUh8Jcw_Hzp4uLHeinrhHGRDys)
+
+위 링크의 글을 보고 광범위한 자료조사를 토대로 분석을 내릴 때 deep research 기능을 사용하면 좋겠다는 생각이 들었습니다. 특히 의학 정보는 공신력있는 자료를 토대로 판단을 내려야 적절하다고 생각했기 때문에 도입했습니다.
+
+## 질문한 내용
+
+구체적으로 제 상태를 체크하고 이를 기반으로 질문하려고 노력했습니다. ai를 의사로 설정하고 지금 처한 상황을 구체적으로 제시한뒤 만약 ai가 정보가 부족하다고 판단되면 다시 되물을 수 있게 프롬프트를 작성했습니다.
+
+![alt text](https://private-user-images.githubusercontent.com/58281476/473293312-3b4946ed-cdc3-457c-9802-c49430b3c8a0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMjQ2NTAsIm5iZiI6MTc1NDAyNDM1MCwicGF0aCI6Ii81ODI4MTQ3Ni80NzMyOTMzMTItM2I0OTQ2ZWQtY2RjMy00NTdjLTk4MDItYzQ5NDMwYjNjOGEwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAxVDA0NTkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjOTQ5NmY2Y2NjNGQxZTkzZmUyOTgwYmUzODQ4MWMxMTFjNGY3MWQ5MmY5MTk1ZmY0NmVkNzYxYWViNTAwZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Hb8LsaAUt8AdcDjMa3ZaFVYzuzItFg1meR8_UjTUWPU)
+## **deep research 답변: 컴퓨터 사용자의 눈 건강 및 집중력 개선을 위한 처방전**
+
+![alt text](https://private-user-images.githubusercontent.com/58281476/473292993-88521a88-5be9-4601-ade6-cc6028bd95e6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQwMjQ1NTAsIm5iZiI6MTc1NDAyNDI1MCwicGF0aCI6Ii81ODI4MTQ3Ni80NzMyOTI5OTMtODg1MjFhODgtNWJlOS00NjAxLWFkZTYtY2M2MDI4YmQ5NWU2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODAxVDA0NTczMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ZWFkMDQzNDJhMzZlODVlMTYyMTYzYmIyYzVkNDRjY2ZmZmMzMmVkNTYyYTdhOGY4MmVkY2VhMjZhZmU2MjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YFw9jr0y9giwOgp1oyb8rV1YRMwTnPndFgB1C8ePuCI)
+
+> 위의 내용 뿐만 아니라 모니터 사용, 섭취해야할 음식등 엄청나게 많은 정보를 담은 글과 이에 대한 근거가 적절하게 나왔습니다.
+> 
+
+deep research 기능을 활용하니까 그냥 gpt를 이용해서 내린 답변보다 훨씬 더 많고 수준높은 정보를 글로 작성해 보내주었습니다. 근거 링크도 들어가 확인해 봤더니 일반 블로그가 아닌 공식적인 내용이 담긴 링크들이었습니다. 이를 바탕으로 간단한 건강문제라면 진단하여 내 몸에 적용해도 무리가 없겠다는 생각이 들었습니다.
+
+## 느낀점
+
+이번에 ChatGPT의 DeepResearch 기능을 활용해 나의 건강 상태(장시간 컴퓨터 사용, 수면 지연, 눈 충혈, 집중력 저하 등)에 대한 개선 방안을 조사하면서, 단순한 조언이 아닌 실제 의학 논문과 공신력 있는 기관의 가이드라인을 기반으로 답변을 받으니까 더욱 신뢰도가 상승했습니다.
+
+특히 단순히 “눈이 피로하면 쉬어라”는 말보다, 왜 20-20-20 규칙이 효과적인지, 루테인이나 오메가-3가 눈과 뇌에 어떻게 작용하는지, 운동과 수면이 인지 기능에 어떤 영향을 미치는지를 구체적으로 이해할 수 있어서 행동으로 옮길 동기가 더 강하게 생겼습니다.
+
+무엇보다 인체에 대한 과학적 원리를 알고 나니 건강 문제를 “체감”이나 “기분”이 아닌, 구체적인 수치와 습관으로 관리할 수 있었습니다.
+
+하지만 deep research 기능이 장점만 있는 것은 아닙니다. 일단 답변을 생성하는 시간이 굉장히 깁니다. 거의 15분 정도 걸렸던 거 같습니다. 사소하거나 중요하지 않은 질문은 일반 채팅을 사용하는 것이 낫고 광범위한 조사 또는 공신력있는 자료로부터의 조사를 원한다면 deep research 기능을 사용하는 것을 추천합니다.
+
+## 동료들과의 토론
+
+돌아온 릴레이 미션시간 동료들의 결과를 보면서 AI는 너무 인간 친화적이다라는 이야기로 토론을 진행했습니다. 부족한 질문을 해도 잘했다하고 칭찬해주는 모습이 좋긴하지만 객관적으로 답변을 하고 있는 거 같지 않다는 생각이 듭니다. ai를 사용하면서 할루시네이션 현상도 조심해야하지만 과도하게 친절하고 칭찬만하는 ai의 성향을 고려해 사용자가 비판적으로 사고할 필요가 있다고 생각합니다. 
+
+앞으로의 개발자의 주요한 능력이 어떻게 될까라는 토론 주제에 대해서는 구현 자체는 ai가 많은 부분을 담당하게 될 거 같다는 의견입니다. 사람이 주로 관여하는 부분은 컴퓨터 관련 지식과 설계에 관여하게 될 거라고 생각합니다. 부스트캠프도 이에 대비한 것 같다는 생각이 들었습니다. 하루 안에 많은 지식을 학습하고 이를 토대로 설계를 진행하고 구현해야합니다. 이 과정에서 학습을 하면서 설계 검증하는 과정을 통해 특히 자신이 생각할 수 있는 힘을 기르는 것이 주 목표라고 생각합니다.
+
+## 이번주 챌린지에서의 ai활용
+
+git object에 대해서 학습을 할 때 주로 학습에 대한 마중물로 사용했습니다. 개념에 대해서 이해하기 어렵고 공식문서도 읽기 힘들게 되있어 먼저 ai가 작성해준 요약정리와 근거자료를 보면서 이해를 심화했습니다.
