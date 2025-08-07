@@ -161,7 +161,7 @@ AI를 사고를 확장하는 방향으로 활용하자.
 <details>
   <summary>J081</summary>
 
-## AI에게 공부한 내용 전달
+## [Quest 2] AI에게 공부한 내용 전달
 
 자바스크립트의 깊은 복사와 얕은 복사에 대해 공부를 해봤어.
 내가 공부한 내용을 추가로 정리해주고, 틀린 부분이 있다면 알려줘야 해!
@@ -228,5 +228,8 @@ console.log(obj1.b === obj2.b); // true
 
 <img width="787" height="202" alt="image" src="https://github.com/user-attachments/assets/67e7c1e3-2689-4726-98ca-998477466bcd" />
 
+## 느낀점
+- AI가 한번 더 정리해주면서 이해했던 내용을 다시 확인할 수 있었고, 놓쳤던 부분이나 잘못 알고 있던 내용을 바로잡을 수 있어 도움이 되었습니다.
+- `structuredClone()` 메서드를 새로 알게 되어 간편한 깊은 복사 방법을 배울 수 있었습니다.
 
 </details>
