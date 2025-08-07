@@ -131,6 +131,8 @@ AI를 사고를 확장하는 방향으로 활용하자.
 - 로직과 관련된 논리적인 작업이 필요할 때, 아이디어를 제시하는 등 창의적인 작업이 필요할 때 등 용도에 더 적합한 모델을 선택하여 이용해봤는데, 실제로 모델마다 제시하는 답변들이 서로 달라서 신기했습니다. 😲
 
 ---
+## 🔥 수행결과
+
 <details>
   <summary>J247</summary>
 
@@ -152,5 +154,79 @@ AI를 사고를 확장하는 방향으로 활용하자.
   - 개인별 특이 상황(업무 강도, 개인 선호 등)을 완전히 반영하기에는 아직 한계가 있어, 가이드라인으로 활용하고 스스로 조정하는 노력이 필요하다고 느낌.
   - AI가 수집한 객관적 점수 덕분에 평소 지나치기 쉬운 수면·영양·운동 상태를 명확하게 파악할 수 있었음.
   
+
+</details>
+
+
+<details>
+  <summary>J081</summary>
+
+## AI에게 공부한 내용 전달
+
+자바스크립트의 깊은 복사와 얕은 복사에 대해 공부를 해봤어.
+내가 공부한 내용을 추가로 정리해주고, 틀린 부분이 있다면 알려줘야 해!
+
+**1. 원시값과 참조값**
+- string, number, boolean, null, undefined 원시값은 스택영역에 저장된다.
+- 객체, 배열 참조 타입은 스택 영역에 힙 영역의 메모리 주소가 기록된다.
+
+**2.  원시값의 저장**
+```js
+let a = 10;
+a = 20;
+```
+1. 10을 스택영역에 할당.
+2. 20 재할당 시, 10이 할당된 공간은 그대로 두고 20을 스택영역에 할당
+3. 추후 GC에 의해 10이 할당된 공간이 제거됨
+
+**3. 참조값의 저장**
+```js
+const obj = {
+  a: 10,
+  b: 20,
+}
+
+obj.a = 30;
+const obj2 = obj;
+```
+
+1. obj의 속성의 값을 변경해도 obj가 가르키는 주소가 변경되지 않음
+2. obj2와 obj가 같은 주소를 가르킴 즉, obj2.b 의 값을 변경해도 obj의 값도 함께 변경된다.
+
+**4. 얕은 복사**    
+참조형 타입에서 바로 아래 단계의 값만 복사하는 방법
+
+```js
+const obj1 = { 
+  a: 1,
+  b: {
+    c: 2,
+  },
+};
+const obj2 = { ...obj1 }; 
+console.log(obj1 === obj2); // false
+console.log(obj1.b === obj2.b); // true
+```
+
+1. 스프레드 연산자로 인해 obj1과 obj2는 서로 다른 주소를 가르킨다.
+2. 하지만 한 단계 더 깊은 b 프로퍼티는 동일한 주소를 가르키고 있다.
+
+
+**5. 깊은 복사**    
+참조형 타입의 모든 참조가 끊어져서 모두 새로운 주소를 가르키고 있다.
+
+깊은 복사를 하는 방법
+1. 재귀 함수를 이용해 deepCopy 구현
+2. JSON.stringify(), JSON.parse() 이용
+
+## AI의 피드백
+<img width="795" height="878" alt="image" src="https://github.com/user-attachments/assets/010565f1-974a-45d5-b073-6a5396244b00" />
+
+<img width="798" height="908" alt="image" src="https://github.com/user-attachments/assets/2cdc3889-9a3a-4eb1-ae4d-b0e105db9234" />
+
+<img width="789" height="1068" alt="image" src="https://github.com/user-attachments/assets/ab8dc2ac-8386-4d9a-95de-f3e60a826676" />
+
+<img width="787" height="202" alt="image" src="https://github.com/user-attachments/assets/67e7c1e3-2689-4726-98ca-998477466bcd" />
+
 
 </details>
